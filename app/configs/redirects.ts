@@ -2,6 +2,10 @@ import { type ConfigRedirect } from "~/utils/redirect-route.server";
 
 export const configRedirects: ConfigRedirect[] = [
   {
+    path: "/telegram",
+    url: "https://t.me/bearmentor_haidar",
+  },
+  {
     path: "/programs",
     url: "https://bearmentor.notion.site/Bearmentor-with-Haidar-735d1483405b40cba6e110cf1f861769",
   },
