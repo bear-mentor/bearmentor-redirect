@@ -14,6 +14,10 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://bearmentor.notion.site/Bearmentor-with-Haidar-735d1483405b40cba6e110cf1f861769",
   },
   {
+    path: "/mentorship",
+    url: "https://bearmentor.notion.site/Mentorship-dengan-Haidar-30c5ee047d5f40ffb36cca6650ad9d15",
+  },
+  {
     path: "/onsite",
     url: "https://bearmentor.notion.site/Bootcamp-Onsite-Full-Stack-Web-di-Bearmentor-7504b32517124e5eb0c47be2250d8573",
   },
@@ -72,6 +76,14 @@ export const configRedirects: ConfigRedirect[] = [
   {
     path: "/mentor-onboarding",
     url: "https://bearmentor.notion.site/Mentor-Onboarding-30acd48c04bd40dab4c287a57f964576",
+  },
+  {
+    path: "/affiliate",
+    url: "https://bearmentor.notion.site/Bearmentor-Affiliate-Program-9c0894509ca94222a51263cd4042c248",
+  },
+  {
+    path: "/affiliator",
+    url: "https://airtable.com/appoep7dnVYMxASul/shrVfOETQwL7yrGh0",
   },
   {
     path: "/example",
