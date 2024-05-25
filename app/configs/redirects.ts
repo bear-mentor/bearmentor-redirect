@@ -6,6 +6,10 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://bearmentor.notion.site/Bootcamp-Online-Full-Stack-Web-di-Bearmentor-0917dd62867b4629934db57ff58daebb",
   },
   {
+    path: "/syllabus",
+    url: "https://bearmentor.notion.site/9c9087723a1d4f3fae35eda01e3499ce",
+  },
+  {
     path: "/telegram",
     url: "https://t.me/bearmentor_haidar",
   },
