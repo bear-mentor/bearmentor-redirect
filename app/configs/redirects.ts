@@ -82,6 +82,10 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://bearmentor.notion.site/Mentor-Onboarding-30acd48c04bd40dab4c287a57f964576",
   },
   {
+    path: "/mentor-payout",
+    url: "https://airtable.com/app0KqazHuNw11dLe/shruAuruQfvvvhmn5",
+  },
+  {
     path: "/affiliate",
     url: "https://bearmentor.notion.site/Bearmentor-Affiliate-Program-9c0894509ca94222a51263cd4042c248",
   },
