@@ -94,6 +94,10 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://airtable.com/appoep7dnVYMxASul/shrVfOETQwL7yrGh0",
   },
   {
+    path: "/projects",
+    url: "https://airtable.com/appy4zcfskMzSC5wl/shr1xh0LXSjWqZUGm",
+  },
+  {
     path: "/example",
     url: "https://example.com",
   },
