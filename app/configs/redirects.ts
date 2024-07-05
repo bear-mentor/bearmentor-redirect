@@ -6,6 +6,14 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://bearmentor.notion.site/Bootcamp-Online-Full-Stack-Web-di-Bearmentor-0917dd62867b4629934db57ff58daebb",
   },
   {
+    path: "/programs",
+    url: "https://bearmentor.notion.site/Bearmentor-with-Haidar-735d1483405b40cba6e110cf1f861769",
+  },
+  {
+    path: "/telegram",
+    url: "https://t.me/bearmentor_haidar",
+  },
+  {
     path: "/syllabus",
     url: "https://bearmentor.notion.site/9c9087723a1d4f3fae35eda01e3499ce",
   },
@@ -14,12 +22,8 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://airtable.com/app0KqazHuNw11dLe/shrxdjlKGkNjfwXA3",
   },
   {
-    path: "/telegram",
-    url: "https://t.me/bearmentor_haidar",
-  },
-  {
-    path: "/programs",
-    url: "https://bearmentor.notion.site/Bearmentor-with-Haidar-735d1483405b40cba6e110cf1f861769",
+    path: "/projects",
+    url: "https://airtable.com/appy4zcfskMzSC5wl/shr1xh0LXSjWqZUGm",
   },
   {
     path: "/mentorship",
@@ -90,7 +94,7 @@ export const configRedirects: ConfigRedirect[] = [
     url: "https://bearmentor.notion.site/Mentor-Onboarding-30acd48c04bd40dab4c287a57f964576",
   },
   {
-    path: "mentor-resources",
+    path: "/mentor-resources",
     url: "https://bearmentor.notion.site/Mentor-Resources-af6af2e5aba94a28a0b1e255d3b6faab",
   },
   {
@@ -104,10 +108,6 @@ export const configRedirects: ConfigRedirect[] = [
   {
     path: "/affiliator",
     url: "https://airtable.com/appoep7dnVYMxASul/shrVfOETQwL7yrGh0",
-  },
-  {
-    path: "/projects",
-    url: "https://airtable.com/appy4zcfskMzSC5wl/shr1xh0LXSjWqZUGm",
   },
   {
     path: "/example",
