@@ -19,6 +19,10 @@ export const configRedirects: ConfigRedirect[] = [
   },
   {
     path: "/schedules",
+    url: "https://airtable.com/app0KqazHuNw11dLe/shryKvP0pXX37ngHm",
+  },
+  {
+    path: "/timeline",
     url: "https://airtable.com/app0KqazHuNw11dLe/shrxdjlKGkNjfwXA3",
   },
   {
