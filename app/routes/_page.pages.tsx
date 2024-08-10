@@ -18,8 +18,6 @@ export default function RedirectsRoute() {
   return (
     <div className="site-container">
       <section className="site-section prose-config">
-        <h4>Redirects</h4>
-
         <ul>
           {redirects.map((redirectItem) => (
             <li key={redirectItem.path}>
