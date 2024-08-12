@@ -11,7 +11,7 @@ export const configRedirects: ConfigRedirect[] = [
   },
   {
     path: "/telegram",
-    url: "https://t.me/bearmentor_haidar",
+    url: "https://t.me/bearmentor",
   },
   {
     path: "/syllabus",
