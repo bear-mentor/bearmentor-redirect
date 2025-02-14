@@ -54,10 +54,6 @@ export const configRedirects: ConfigRedirect[] = [
     to: "/register",
   },
   {
-    path: "/wait",
-    url: "https://airtable.com/appoep7dnVYMxASul/shrcSpIhWa1EgtSfV",
-  },
-  {
     path: "/payment",
     url: "https://airtable.com/appoep7dnVYMxASul/shr9IOu7OF4eGRKW8",
   },
